@@ -245,6 +245,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm
+INPUT ./Postman.png
+INPUT ./Postman.png
+INPUT ./Postman.png
+INPUT ./Postman.png
+INPUT ./Postman.png
 INPUT ./logo.png
 INPUT ./logo.png
 INPUT ./logo.png

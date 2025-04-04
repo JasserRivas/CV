@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.8)  3 APR 2025 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.8)  3 APR 2025 21:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,24 +485,29 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <12> not a
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 268.
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <12> not available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 280.
+<Postman.png, id=30, 255.95625pt x 255.95625pt>
+File: Postman.png Graphic file (type png)
+<use Postman.png>
+Package pdftex.def Info: Postman.png  used on input line 300.
+(pdftex.def)             Requested size: 11.56346pt x 11.56049pt.
 
-Overfull \hbox (52.12785pt too wide) in paragraph at lines 309--311
+Overfull \hbox (52.12785pt too wide) in paragraph at lines 313--315
 []\T1/phv/m/n/12 Proyectos [] 
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 328--329
+Underfull \hbox (badness 1803) in paragraph at lines 332--333
 []\T1/phv/m/n/9 Experiencia en la mi-gra-ción a AWS de in-fra-es-truc-tu-ra y pro-ce-sos
  []
 
 
-Overfull \hbox (17.01398pt too wide) in paragraph at lines 255--360
+Overfull \hbox (17.01398pt too wide) in paragraph at lines 255--364
 [][]  [] 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 361.
+Package pdftex.def Info: logo.png  used on input line 365.
 (pdftex.def)             Requested size: 621.21169pt x 879.72348pt.
 
 Overfull \hbox (115.20706pt too wide) has occurred while \output is active
@@ -511,7 +516,7 @@ Overfull \hbox (115.20706pt too wide) has occurred while \output is active
 
 [2
 
-] (./JasserRivas.aux
+ <./Postman.png>] (./JasserRivas.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
@@ -523,18 +528,18 @@ Package rerunfilecheck Info: File `JasserRivas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16433 strings out of 474222
- 293952 string characters out of 5748734
+ 16440 strings out of 474222
+ 294077 string characters out of 5748734
  1937975 words of memory out of 5000000
- 38462 multiletter control sequences out of 15000+600000
+ 38469 multiletter control sequences out of 15000+600000
  581241 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,12n,93p,347b,457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on JasserRivas.pdf (2 pages, 108710 bytes).
+Output written on JasserRivas.pdf (2 pages, 113348 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
